@@ -30,7 +30,7 @@ export default function App() {
 
         <div className='front-card'>
          
-          <img className="logo" src="/images/card-logo.svg" alt="logo" />
+          <img className="logo" src="images/card-logo.svg" alt="logo" />
         <div className='card-number'>
           <p className='zeros'>{data.cardnumber ? data.cardnumber : "0000 0000 0000 0000"}</p>
         </div>
