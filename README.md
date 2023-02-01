@@ -50,4 +50,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@Median211](https://www.frontendmentor.io/profile/Median21)
+- Frontend Mentor - [@Median21](https://www.frontendmentor.io/profile/Median21)
