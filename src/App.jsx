@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import Logo from '../images/card-logo.svg'
 import './App.css'
 
 export default function App() {
@@ -29,7 +30,7 @@ export default function App() {
       <div className="left-side">
 
         <div className='front-card'>
-          <img className="logo" src="/images/card-logo.svg" alt="logo" />
+          <img className="logo" src={Logo} alt="logo" />
         <div className='card-number'>
           <p className='zeros'>{data.cardnumber ? data.cardnumber : "0000 0000 0000 0000"}</p>
         </div>
